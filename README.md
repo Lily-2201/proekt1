@@ -1,33 +1,39 @@
 <html>
    <title>Інформація про динозаврів</title>
-<body style="background-color:#008080">
-    <header style="font-size:40px;background-color:black;;color:white">Динозаври</header>
-    <img src="https://w7.pngwing.com/pngs/964/56/png-transparent-triceratops-tyrannosaurus-stegosaurus-dinosaur-drawing-cute-dinosaur-face-grass-fauna.png"height="140"><img src="https://png.pngtree.com/png-vector/20190130/ourlarge/pngtree-cartoon-cute-animal-little-dinosaur-baby-hand-account-cute-element-material-png-image_644631.jpg"height="140"><img src="https://gagaru.club/uploads/posts/2023-02/1676046146_gagaru-club-p-milii-dinozavrik-krasivo-48.jpg"height="140"><img src="https://pictures.pibig.info/uploads/posts/2023-04/1680813428_pictures-pibig-info-p-risunki-dinozavrov-dlya-srisovki-instagram-42.jpg"height="134">
-    <h1 style="background-color:red;border:7px solid darkred;font-size:50px;text-align:center">Динозаври</h1>
-    <main style="background-color:lightblue;font-size:20px;border:3px solid #6A5ACD"><h2><i><b>Динозаври були панівною групою наземних хребетних в мезозойську еру.Описано понад 1000 видів.Рештки знайдені на всіх сучасних континентах. Поділяються на 2 ряди: птахотазові (Ornithischia) і ящеротазові (Saurischia), останні були предками птахів. Птахи — єдина лінія динозаврів, яка, як відомо, пережила подію крейдяно-палеогенового вимирання. Довжина різних видів коливалася від 0,35 до 35 м, вага — від 110 грамів до понад 100 т.</b></i></h2>
-    <p style="border:3px solid #6A5ACD;font-size:50px">Tрицерптор</p>
-     <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/202007_Triceratops_horridus.svg/350px-202007_Triceratops_horridus.svg.png"height="260px;font-size:10pz"></p>
-     <p style="border:3px solid #6A5ACD;font-size:50px">Птерозавр</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pteranodon_sternbergi_pair.jpg/220px-Pteranodon_sternbergi_pair.jpg"height="250"></p>
-<p style="border:3px solid #6A5ACD;font-size:50px">Тираннозавр</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Tyrannosaurus_Rex_Holotype.jpg"height="260px"></p>
-    <table style="border:1px solid #6A5ACD">
+<body style="background-color:#008080;">
+    <header style="background-color:#011e21;border:4px solid #00090a;"><i>Динозаври</i></header>
+    <h1 style="background-color:#011e21;border:7px solid #00090a;font-size:50px;text-align:center"><i><a href="https://uk.wikipedia.org/wiki/">Динозаври</a></i></h1>
+    <main style="background-color:lightblue;border:7px solid #00090a;"><h2><i><p>Динозаври були панівною групою наземних хребетних в мезозойську еру.Описано понад 1000 видів.Рештки знайдені на всіх сучасних континентах.</p>
+    <p>Поділяються на 2 ряди: птахотазові (Ornithischia) і ящеротазові (Saurischia), останні були предками птахів. Птахи — єдина лінія динозаврів, яка, як відомо, пережила подію крейдяно-палеогенового вимирання. Довжина різних видів коливалася від 0,35 до 35 м, вага — від 110 грамів до понад 100 т.Традиционно «динозаврами» называют только динозавров-нептахов.</p>
+     <p>Ближайшими крупными родственными группами животных являются крокодилы и вымершие птерозавры . Динозавры многообразны с таксономической, морфологической и экологической точек зрения.</p> 
+     <p>Птицы, насчитывая более 10 700 видов, принадлежат к разным группам позвоночных. На каждом континенте динозавры представлены как современными видами (птицами), так и ископаемыми останками. В первой половине 20 века, до того, как птицы признали динозаврами, большинство научного сообщества считало, что динозавры были вялыми и хладнокровными. Однако большинство исследований, проведенных с 1970-х годов, показало, что динозавры были активными животными с повышенным метаболизмом и многочисленными приспособлениями к социальному взаимодействию.</p>
+     <p> Одни были травоядными, другие мясоядными. Доказательства свидетельствуют о том, что все динозавры откладывали яйца, и строительство гнезд было характерной чертой многих динозавров, как птичьих, так и нептичьих.</p></i></h2>
+    </main>
+    <footer style="background-color:lightred">
+    <h3>А тепер трішки інформації про декілька динозаврів;)</h3>
+    <table style="border:2px solid #122e3d ">
     <tr>
-    <td style="border:1px solid #4B0082;font-size:20px">Трицераптор</td>
-    <td style="border:1px solid #4B0082;font-size:20px ">— рід хазмозаврових динозаврів, які жили в кінці Маастрихтського ярусу пізньої Крейди, приблизно 68—66 мільйонів років тому на території сучасної західної Північної Америки.</td>
+    <td>Трицераптор</td>
+    <td>— рід хазмозаврових динозаврів, які жили в кінці Маастрихтського ярусу пізньої Крейди, приблизно 68—66 мільйонів років тому на території сучасної західної Північної Америки.</td>
 </tr>
 <tr>
-    <td style="font-size:20px;border:1px solid #4B0082">Птерозавр</td>
-    <td style="font-size:20px;border:1px solid #4B0082"> — вимерлий ряд плазунів мезозойської ери, що освоїли повітряне середовище проживання. Вони жили 210—65,5 млн років тому, одночасно з динозаврами і морськими ящерами.</td>
+    <td >Птерозавр</td>
+    <td > — вимерлий ряд плазунів мезозойської ери, що освоїли повітряне середовище проживання. Вони жили 210—65,5 млн років тому, одночасно з динозаврами і морськими ящерами.</td>
     </tr>
     <tr>
-     <td style="font-size:20px;border:1px solid #4B0082">Тираннозавр</td>
-     <td style="font-size:20px;border:1px solid #4B0082">— рід тиранозаврових тероподів. В роді відомий 1 вид — тиранозавр королівський (Tyrannosaurus rex), який є популярним персонажем в масовій культурі.</td>
+     <td >Тираннозавр</td>
+     <td >— рід тиранозаврових тероподів. В роді відомий 1 вид — тиранозавр королівський (Tyrannosaurus rex), який є популярним персонажем в масовій культурі.</td>
+    </tr>
+    <tr>
+    <td>Велоцираптор</td>
+    <td>— род хищных двуногих динозавров из семейства дромеозаврид, подсемейства велоцирапторин. Типовой вид — Velociraptor mongoliensis. Жил в конце мелового периода, около 75—71 млн лет назад[3]. Его ископаемые остатки впервые обнаружены в Монголии. В китайской Внутренней Монголии найден вид V. </td>
+    </tr>
+    <tr>
+        <td> Завроподи</td>
+        <td>— група ящіротазових динозаврів. З'явилися наприкінці тріасу, набули значного поширення у пізній юрі. До часів масового крейдового вимирання усі групи, крім титанозавринів, уже вимерли. Залишки знайдені на усіх континентах крім Антарктиди.Останніми роками класифікація завроподів значно стабілізувалася, хоча все ще є деякі неузгодженості, як наприклад позиція еухелопа (Euhelopus), гаплокантозавра (Haplocanthosaurus), джобарії (Jobaria) та немегтозавриних (Nemegtosauridae). Нижче наведені дві альтернативні класифікації.</td>
     </tr>
     </table>
-    </main>
-    <footer style="background-color:lightred"><a href="https://logikaschool.com/"><img src="https://jobs.ua/uploads/logo/b/1605223.jpg"height="175px">
-    </a>
+    <a href="https://logikaschool.com/"></a><img src="https://jobs.ua/uploads/logo/b/1605223.jpg"height="175px">
     </footer>
 </body>
 </html> 
