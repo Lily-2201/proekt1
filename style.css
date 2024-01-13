@@ -1,0 +1,59 @@
+header{
+    border:0px;
+    border-radius: 19px;
+    padding: 5px;
+    font-size: 20px;
+    color: #122e3d;
+} 
+h1 {
+    border:0px;
+    border-radius: 19px;
+    padding: 5px;
+    font-family:segoe script ;
+text-transform: uppercase;
+}
+
+ main {
+     padding: 10px;
+     margin: 15px;
+     font-family:segoe script;
+     
+     font-size: 19px;
+ }
+ table td{
+     padding: 10px;
+     border-radius: 10px;
+ }
+ footer img {
+     border-radius: 18px;
+ }
+td {
+    border:2px solid #122e3d ;
+    font-size:20px;
+    padding: 10px;
+    background-color:rgb(129, 177, 172);
+    font-family: segoe script;
+}
+a {text-decoration: none;
+color:#122e3d;} 
+footer p {
+    font-size: 35px;
+    background-color: rgb(129, 177, 172);
+    border-radius: 7px;
+     text-align: center;
+    font-family:segoe script;
+}
+h3 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 7px;
+    font-family:segoe script ;
+}
+p img {
+    height: 230px;
+    border-radius: 130px;  
+}
+p {
+    border: 3px solid rgb(12, 72, 80); 
+    border-radius: 10px;
+}
